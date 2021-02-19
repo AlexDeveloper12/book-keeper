@@ -11,3 +11,5 @@ Packages used
 ## @react-navigation/stack
 ## @react-navigation/material-bottom-tabs
 ## react-native-ratings
+
+![Demo](signin.gif)
