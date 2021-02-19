@@ -13,4 +13,3 @@ Packages used
 ## react-native-ratings
 
 ![Demo](addexample.gif)
-![Sign in example](signin.gif)
