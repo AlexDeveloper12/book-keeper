@@ -12,4 +12,4 @@ Packages used
 ## @react-navigation/material-bottom-tabs
 ## react-native-ratings
 
-![Demo](signin.gif)
+![Demo](addexample.gif)
